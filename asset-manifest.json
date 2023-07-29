@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SortVis/static/css/main.c2afa902.css",
+    "main.js": "/SortVis/static/js/main.1c442f45.js",
+    "index.html": "/SortVis/index.html",
+    "main.c2afa902.css.map": "/SortVis/static/css/main.c2afa902.css.map",
+    "main.1c442f45.js.map": "/SortVis/static/js/main.1c442f45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2afa902.css",
+    "static/js/main.1c442f45.js"
+  ]
+}
